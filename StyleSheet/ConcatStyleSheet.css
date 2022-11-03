@@ -1,0 +1,101 @@
+﻿
+body {
+    font-size: 14px;
+    line-height: 20px;
+    margin: 0;
+    min-height: 100%;
+    display: block;
+    -webkit-text-size-adjust: 100%;
+    font-family: 'Libre Franklin', sans-serif;
+    background-color: hsla(0, 0%, 85.9%, 0.1);
+}
+
+.Pempeo {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: Pacifico, sans-serif;
+    font-size: 34px;
+    line-height: 40px;
+    font-weight: 700;
+    text-align: center;
+    color: black;
+}
+
+.heading {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: Pacifico, sans-serif;
+    font-size: 34px;
+    line-height: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.concatus {
+    height: auto;
+    padding-top: 110px;
+    padding-bottom: 110px;
+    background-image: linear-gradient(900deg,#f8f6f4 34%,transparent), url('../images/CONCATUS.jpg');
+    background-position: 0px 0px, 0px 50%;
+    background-size: cover;
+    background-repeat: repeat, no-repeat;
+}
+
+.bg {
+    background-color: hsla(0, 0%, 85.9%, 0.1);
+}
+
+.bakimg {
+    padding-top: 110px;
+    padding-bottom: 110px;
+    background-image:url('../images/CONCATUSBACKGROUND.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat, no-repeat;
+}
+
+.inputbg {
+    background-color: #f1e9e9;
+}
+
+.abg {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+
+.abg {
+    background-color: #990000;
+    transition: 0.3s ease-out;
+}
+
+    .abg:hover {
+        background-color: orangered;
+    }
+
+.background {
+    background-color: hsla(0, 0%, 85.9%, 0.1);
+}
+
+.fontsize2 {
+    font-size: 1vw;
+}
+
+.name {
+    background-image: url('1.png');
+    background-position: 7px 48%;
+    background-size: 20px;
+    background-repeat: no-repeat;
+    margin-right: 2px;
+}
+
+a:active {
+    color: brown;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+

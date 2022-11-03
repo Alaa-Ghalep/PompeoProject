@@ -1,0 +1,207 @@
+﻿body {
+    font-size: 14px;
+    line-height: 20px;
+    margin: 0;
+    min-height: 100%;
+    background-color: #fff;
+    display: block;
+    -webkit-text-size-adjust: 100%;
+    font-family: 'Libre Franklin', sans-serif;
+    background-color: var(--edge-grey-background);
+}
+
+.Pempeo {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: Pacifico, sans-serif;
+    font-size: 34px;
+    line-height: 40px;
+    font-weight: 700;
+    text-align: center;
+    color: black;
+}
+
+.heading {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: Pacifico, sans-serif;
+    font-size: 34px;
+    line-height: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.shop {
+    height: auto;
+    padding-top: 110px;
+    padding-bottom: 110px;
+    background-image: linear-gradient(900deg,#f8f6f4 34%,transparent), url('../images/ABOUTUS.jpg');
+    background-position: 0px 0px, 0px 50%;
+    background-size: cover;
+    background-repeat: repeat, no-repeat;
+}
+
+
+.section-image-newsletter {
+    position: relative;
+    display: block;
+    width: 80px;
+    height: 80px;
+    margin-right: auto;
+    margin-bottom: 40px;
+    margin-left: auto;
+    border-radius: 100%;
+    background-color: #ebb96a;
+    background-image:  url('images/telegram.png');
+    background-position: 50% 50%;
+    background-size: 38px;
+    background-repeat: no-repeat;
+}
+
+
+/*
+
+.scale {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+
+    .scale img {
+        width: 100%;
+        transform: scale(1);
+        transition: 0.3s ease-out;
+    }
+
+    .scale:hover img {
+        transform: scale(1.1);
+        width: 100%;
+    }*/
+
+.section-image-newsletter {
+    position: relative;
+    display: block;
+    width: 80px;
+    height: 80px;
+    margin-right: auto;
+    margin-bottom: 40px;
+    margin-left: auto;
+    border-radius: 100%;
+    background-color: #ebb96a;
+    background-image: url('../images/telegram.png');
+    background-position: 50% 50%;
+    background-size: 38px;
+    background-repeat: no-repeat;
+}
+
+.subscribe-button {
+    height: 45px;
+    padding-right: 35px;
+    padding-left: 35px;
+    border-radius: 0px;
+    /*            background-color:#000;
+                */ background-color: black;
+    transition: all 400ms ease;
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 9px 15px;
+    border: 0;
+    line-height: inherit;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+    .subscribe-button:hover {
+        background-color: #990000;
+    }
+
+input {
+    line-height: normal;
+}
+
+button, input, optgroup, select, textarea {
+    color: inherit;
+    font: inherit;
+    margin: 0;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+
+
+.form {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+.container3 {
+    position: relative;
+    z-index: 1;
+    display: block;
+    width: 1200px;
+    max-width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 24px;
+    padding-left: 24px;
+    text-align: center;
+}
+
+.footer-subscribe {
+    display: inline-block;
+    width: 30%;
+    height: 45px;
+    margin-right: 2px;
+    padding-left: 40px;
+    border-style: solid;
+    border-color: #ebebeb;
+    border-bottom-width: 1px;
+    background-color: hsla(0, 0%, 85.9%, 0.1);
+    background-image: url('email.png');
+    background-position: 9px 57%;
+    background-size: 20px;
+    background-repeat: no-repeat;
+    color: #6c6c6c;
+    font-size: 13px;
+    line-height: 23px;
+}
+
+.checkbox {
+    display: block;
+    margin-top: 40px;
+    margin-bottom: 28px;
+    float: none;
+}
+
+.w-checkbox {
+    display: block;
+    margin-bottom: 5px;
+    padding-left: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.mrnbtm {
+    margin-bottom: 9vw;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+
